@@ -1,0 +1,808 @@
+[
+    {
+        "element_id": "499f8070c155eecf5216f5e708f4d326",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        229.7,
+                        80.2
+                    ],
+                    [
+                        229.7,
+                        237.0
+                    ],
+                    [
+                        1091.2,
+                        237.0
+                    ],
+                    [
+                        1091.2,
+                        80.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "image_base64": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACdA10DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK5Dxh8SvDfgrMWpXTSXm0MLS3XdIQe5yQB+JzXz34v8Ajd4l8TJJbWm3SrF12tFA+52BGCC+BwfYDFAH01rfizQPDkMkmrata2vlgFkZ90gBOB8gyx6+lWdF1vT/ABDpqajpc5ntHJCSGNk3Y9AwBI96+Z/hJ8Om8e6pJq+uTyyabaMAyuWLXDdl3H+Ed/y75HYfFP4vJoajw14PkSKWHCzXcQG2ED+BOxPqf554APdY5opS4jkRzG2xwrA7W64PoeR+dR215a3qu1rcwziNzG5ikDbWHVTjofavDv2cL26vZfFEt1cSTO7wOxdicsfMyfxwPyrzSy8e634G8ca5PpUqmKW9mEtvKCUf94ecdj70AfU2r+M/D2g6va6XquqRWl5dKGhSRWAYEkZLY2jkHqRWva3lrfW63Fncw3ELZAkhcOpx15HFeZyR+GPjp4LDowt9RhXuAZbWT0P95CfzHocivnu7k8VfDjxJNpwv57K9tCQPJl3IQw+8AeMEHPIzzQB9rUV4J4O/aHjkdLTxXZ+WSQBeWoyuSQPmQ9ABkkgk8dK9u0rVrDW9Oi1DTLqO5tZRlJEPB/qPoaALtFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFZ13ctfWN5BpF/ai/VCqMcSCN+25QQf1rzv4zfEhfC2jHSdJvEXWrng7RuMMXOW9mPbr3r508L+MdY8I66NW024JmY/vklJZJgeocZ5+vWgBPF+leINM8RXi+I45zfNKfMnkyVkPXKt0IIwR7dhV34feDLnxv4pt9PjRjaIyyXkisFKRZ5wcHk9Bx1r3/wAO+MPCHxd0K30vX7a3GpZ+azkYglwOWjYHOD6Z9ua3tH8FWfw68Jan/wAIvZtd6n5Mkkb3GGkncAlUOMcZwMDFAHCfFnxrZeCvDsPg7wnNHa3ONk4hXJhixyN2eHPHqcZ6GvnMksSSSSeST3rU8RrrH9v3s2vQyx6jLMzT+am0l889OPyrKoA+gP2Z+niX/t2/9qV4n4m/5GvWP+v6b/0M17Z+zP08S/8Abt/7UrxPxN/yNesf9f03/oZoAm8L+KdU8Ia1FqelzbJEOHRuUkXurDuK998a+H9P+Lfw/t/E2g20T64kStsjl5/24mOPmI5A6c+1fNFe4fs+S+JLXWZreOykPh+5BaeV48KkgXKkH34HcUAeIEFWKkYIODXv/wCz/o/iy1uLm7kka10BgQ8FxGSZZOxQZG3Hc8+mOcjvbz4WeBbDW7zxRqFoiRqPOeKV9tvEyncXCj6dDke1eU/E741Sa5AukeFpZ7SwGDNcD5JJMdFXH3V78cnjtkEA+koLy1ui4t7mGYocOI3DbT746VNXxJ4O8a6r4M19dTsZmdXOLiB2JWde4b39D1H519laDrVn4h0S11SxlSSG4jDfI27ae6k+oPFAGjRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFV5b+zgkMc13BG46q8gBH4Gmf2pp/8Az/2v/f5f8aALdFVV1Kwdgq3tsWJwAJVyT+dWqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAornPE3jrw74RBXWNQSGfyvOS3AzJIuSPlHfkGvPtW/aL8OW0UZ0vTr2+kJIdZMQhR655zQB7JRXy7pPxl8Za/wCPNIia/jtLO5vYIZLW3iXYVLgHlgW5B9a+oqACiiigAooooAKKKKACqGt6vbaDol5ql46rBaxGRizYB9Bn3OB+NX68U/aM8QNZ+HtO0OIyo17KZpGR8KUQYKMO+Syn/gNAHz74h1m48Q+IL7V7pi011KXOQBgdAOOOAAKzaKKAO/8Ag34futc+IunTQZWHT5FuppNuQApyAfTOMV7F8RfjPJ4M8XwaRZWUF3FGqte79wcZ5whBxnb6g4NYXwA02PRvDOteKr52t4XBjV5vliMacls/72QfpXhWuarJruvX+rTRpHLeXDzuiZ2qWJJAz25oA+i7X4zfD3xILY6/pKR3Rfy1F3arOsYJ67yOB3NQyfDz4SeLXa10PU4be7U+c7Wd2WYr0Iw5IAyR0HpXzXRQB9n+APAOi+BbK6j0mea5e6cGWeVwxIX7q8YAxk9s81xXiL4M+Bn1G+1y91u4sYGkM80YnTy0yfm5ILcnPfvWT+zTczvbeIbZppGgjaB0jLHarNvyQOxOBn6CvD/E3/I16x/1/Tf+hmgD6GivPgn4St5ry0XTbsybUaME3bdeoVycfUVg6x+0VHaKtr4Z0GFIIWKI1zkIYxwu1Fxt+leB0UAfVpv2+LnwTvpXt2hu5InPk2xyWmiO5QAc8MygY64PWvlN0aN2RwQynBB7Gvcv2cdfS31bU9BlaFPtSCeIs2Hd14Kgd/lyfwrzX4jaIvh/x9q9hFbSW9uJy8Cvk5Q9CCeoPPNAHLV7R8AvHH9k6u/he7Ltb6hKGttqjCS4w2eM8gL3wNvvXi9WtOv7jS9Rt761keOeCQSIyMVII9xzQB960Vl+G9Zi8QeG9P1aJ4nF1Art5TZVXx8yj6NkfhWpQAUUVz/jLxZYeDvDlzqd7NGjhStvG3WWXHyqAOTz19smgC5rviLSfDVgb3V72K1hyQpdsFzgnAHc8GvE/E/7RjLO0HhrTY2iG4G4u85bIGCqgjGDnrntXjHiPxRq/irUnvdXvZbhyzMiMx2RA4yEXoo4HT0rqvhF4F/4TTxTvuUjfTLArJdI7YL5ztUY9cH8vegDV0dPir8TZWvbfVrxIrcLEZRN9lQ9+AmAx5z64Irt/wDhTHjf/oo15/38m/8Ai69uiijghSGFFjijUKiKMBQOAAOwp9AHzV4v+HnxH8MadJqFt4p1LU7WFC8xhu5VdB3+XccgDkmk+HXxo8Ry+MbHT/EN+Luwu2FvgwKGR24QgqAfvYBzngmvpavDPEvwbv1+Juna74dtbZNL+1w3E8QkCeUVcFiAfXk4FAHudFFFABRTWdU+8wX6nFJ50X/PRP8AvoUAPopFdX+6wP0NLQAUUUUAFFV76+tNMspby+uIre2iG6SWVgqqPcmm6dqVlq1jHe6ddRXVrJnZNCwZWwcHBHuCKALVFNMkanDOoPoTQJI2OFdSfQGgB1FFISFGSQB6mgBaKZ50X/PRP++hTgQwypBHqKAFooooAKKKzbXxBo97q0+lWupWs2oQAtLbJIC6AYBJHbqPzoA0qKRmVRlmAHqTWZH4j0WbWJNIj1W0bUYxue2Eo8xRgHJH0I/OgDUopAwYZUgj1FLQAUVm6r4h0fQ4En1TU7WzidtivPKFBbGcDP0qzZajZ6jaxXVldQ3EEy7o5I3DBh6igCzRRRQAUUU0yRqcM6g+hNADqKrwX9ndBzBdQyCORo3KuDtZTgg+4NTqysMqQR6g0ALRRRQAUU13WNGd2CooySTwBWBofjbQPEmrXem6PfpeTWkaySPFzHhumG6GgDoaKp6nq2n6NZtealeQWlshAaWZwqjJwOT71S0rxb4e1y4e30rWrG8mRd7JBMrELnGcD3IoA2aKKKACimtIiHDOoPuazh4i0ZtZbRxqlodSVdxtfNHmAYznH0OaANOimq6OcK6n6GnUAFFFNZ1T7zBc+pxQA6iual+IXg6CZ4ZfEulpJGxV1a5UFSOCDzW/b3dvdwRzW88csUqB0ZGBDKRkEe2KAJqKKKACiiigDzv4iw/Ei5uo4/B0lrBYLATM5K+bI5zlRuB6ADGMHJNfNGpa54z0e/lsNR1nW7a7ixvhlvJQy5AIyN3oRX23Xx98av8AkrWt/WH/ANEpQBxF3eXeo3TXF5czXNw+AZJpC7HHAyTzXvfhn9nnT77w7Z3etahqNvfzRiSSCIIojzztIZScjvXz/H/rE+or77i/1Sf7ooA+WPiR8IL3wMsWsaJPc3WnRlS8px5tu+eGJUDjOOexxXIaV8RfGGjXTXNp4gvjIyFD9olMy4JB+6+RnjrjNfaN5aQ39jcWdwpaC4jaKRQcZVhgjI9jXwhqMKW+p3cMYxHHM6KM5wAxAoA+o/hN8Vn8b/aNO1aO3g1OBVZDG2PPXGCQp7gjnHHzDivU6+HfBmqy6J4z0jUYY0kkhuVwr5wc/L2+tfcVABRSEgDJOAO5rD1Hxp4Y0i8az1HXtPtblQC0Us6qwBGRxQBu0VxqfFbwQ+pyWP8AwkNmGSMSec0gERz2D9Cfat7SfEmia8sp0nVbS9ERAkMEobaT0zj6GgDUooooAKKKyNN8T6Pq+rX+l2N9FPeWDBbiNTkqf/rHg+/FAGvRSMyoMswH1Nc03xF8GI7I3ifSgynBBuV4P50AdNRVax1Gy1S0iu7G6hubeUbkkicMrD1BFWaAOd8T+BvDvjDyTrenLcSQgiOQOyMoPbKkEj2PFfGviPTYtG8TarpcLu8VndywIz43MFYgE478V92V8QeO/wDkoHiL/sJXH/oxqAGeCf8AkfPD3/YSt/8A0YtfcVfDvgn/AJHzw9/2Erf/ANGLX3FQAUUUUAFFFFABRRRQAV8mfHq8W6+Kd5CqsDa28MLE9yUD5H4OB+FfWdeI/EP4Jar4u8a3uu2GqWUMV0seY5w25WVFTsDxhQfxoA+bqK9o/wCGbfEX/Qa0v/yJ/wDE05f2bfEG9d+taZtzzjzM4/75oA6m2U+GP2YXh1X9091aSiIL8+fOZmj6dMhh9K+bK+yvFfgI6/8ADaLwpBe+W9vDDHFNIvDGMADcB0BxzivHf+GbfEX/AEGtL/8AIn/xNAHi9Fe0f8M2+Iv+g1pf/kT/AOJo/wCGbfEX/Qa0v/yJ/wDE0AbH7M/TxL/27f8AtSvE/E3/ACNesf8AX9N/6Ga+pfhR8Nrn4fWmo/bb6K5uL1kyIQdiqmcckA5O4/kK4DX/ANnnWNQ8QX97ZazYi3uJ2lQThw43HJBwCOpNAHgtFe0f8M2+Iv8AoNaX/wCRP/iaP+GbfEX/AEGtL/8AIn/xNAHIfB/U7XSfijo1xduUjd3gBCk/PIhRRx/tMK6j9orSpLXxrZ6k0itHe2u1UHVfLODn67q3vDH7PuraV4n03Ub/AFiya3tLhJysAcuxQ7gOQBgkDPtXa/Fj4YXfxB/s2axv4baez3oVnB2srYJOQCc5A/WgD5Lor2j/AIZt8Rf9BrS//In/AMTR/wAM2+Iv+g1pf/kT/wCJoA9C/Z/1eTUfhz9keJUXTrl4EYHlwcSZP4uR+Feq1xPwv8CS+AfDUun3F4lzcT3BnkaMEIpwFAGeTwo/Gu2oAK+Ufjv4i/tnx89jFLvt9NTyQuzaVkP3xnvyBX1dXwbrF3cX2s3t1dTPNPJMzPI5yWOepNAFKvq74DeH49J+HseoFYTcalK0xkRcN5Y+VVY98EMf+BV8o19xeDNNt9J8F6PZWgYQpaowDHJyw3Hn6k0AbtFFFABRRRQAyWWOCF5pXWOKNSzuxwFA5JJ9K8B8dftASrMbLwioTypSHvZUDrIB/cU9s55PoMVZ/aF8ZvbwW3hWymZHlAnvCpZfk/hU9iCcn/gIr54oA9i8D+EvEHxgebUvEevXb6VazMqAy7j5hwzKin7owR+mOleh658AfC91pM0WjCeyvyMxTSTvIoPoQT0rtPh5pEeh/D/RbGOQyAWyylyuCS/z/pux+FdNQB8Xyal4q+GfiS70q11O6tZLW53MillinwflYofvKRjr1Br2r4Z/G6PxFexaN4iENrfSBUguR8qTv6HsrE9B07daq/tF+HPtOi2PiCGEmS1fyZ5N4AEbH5eO53GvnEEggg4I6EUAff1efeJPjN4P8OvNB9u+3Xca5ENoN4JzgrvHygjB4Jqp8JPE6eOPh9Lp9/I8l1aobS6O5tzIykBtx7kZ6dMV5p8ZPhZpHg/RLLV9EDxwmcwXCTSs7MzDKkZ7Da2fqKAOO8efE/XPHMrwXEvkaWspeG0QYA7Dcf4j9emTiuw8B+N/GF94UsvCHgrTEN1Zxu895KRhd0jtgZ+UZBA55yDivGK+rfgHo8enfDeK9WQu+ozyTMCuNm0+XgHv9zP40AeVeKPg98QXX+1ruRtXuWtxJcMJ98qED7nJy5AGPlzXmWn6nqGkXyXmn3k9pdR5CywuUZcjB5HtX3pXxP8AEUBfiR4jAAAGoTYA/wB40AejeEv2gbvSfD72WuWk+pXkQIt7neMtxx5hPJ5xz1rRXwh8UviRYS3er61/Zdjcxrss3ZlSRMkjMa9COPvDJ4rxjwqAfGGiAjIN/Bx/20WvujGBgUAfEfi7wXrvgq+S21i2aNZQTDMrbkkAOOCOM9DjqMj1q74R+JXiPwjeWht9QuJtPgJBsZJCYipOSAvQHJJzXvH7QoB+GyHAyL+LB/4C9fK9AH3P4X8R2Xizw7aa1p+8W9wp+VxgqwOGU/QgjNVPEPjzwx4WEq6tq9vDPHt3W6tumw3Q7B82Oc9K4P8AZ21K4u/Al1aSsphsrto4QBggMA5z68sa6jxj8K/DfjS6e9voZItQMXlrcQtg5xhSR/Fj3oA8k8ZftBX2pWy2vhiCXTgwYTTzbWcgjA2/3euc9RivP/APjXUPB3iaXUrOyS/u7qI2/lyFssWZTkY5JyP1rlp4/KnkjByEYrn6Gu0+D4DfFfQAQCPNfg/9c3oA9F1XwD8UviDHNLr+oQ2NuqrJBZGT5GPzEfKvAYZxluefavGPEXhvV/CmrNp2sWr21yFDgE5DKe6sOCOoyO4NfdNeF/tK20r6ToNwkLtHHNKskgUkLkLgE9s4OPxoA8s8D/FLX/BEgigla708KV+xTufLXJJyv905JPHWvUI/GPjT4t6lNZ+EXk0LR4UHm3bnDh+uN685PTA7da+d6+tfgQAPhVYEAZM02T6/vDQB434u+B/iTw1osurC6h1KOI7pkt1bei93weoHfHQc15vYaje6XeR3lhdTW1zESY5YXKsuRg4I6cE196kAggjIPUGvgvUuNUu/+uz/APoRoA+k/gt8T7/xbLd6Nrkyy38MYlgkWPBkjHDbscZB2+53H0r1q/vrXTLCe+vZ0gtoELySOcBQK+PfhESPipoGCRmdgf8Avhq779ojxVNNq1n4atp1+zQxefcCOXOZGJAV1HQgAEZ/vUAUPG3x71fVJriy8Of6BY7mRbkf66RcYz/sc5IxzzWf4E+HWufFG8l1rXNRvFscbDeSsXkmYDACluoGMZ9sV5XX0v4B+LvgPRPBGl6bcXL2FxbwhJoRau2ZB958qpHzHJ/GgDQ1f4A+FLjSZ4dLW4s74r+6nad3UN7gnoehrwzQvHHiz4danNYW91NGkEpSWxuASmdwLfKfuk469ea9u139oTwtYRldJjudTlaNirLGY0V+wbfg4+gNfM+o39xqupXF/dytLcXEhkd3OSSfegD7O8D+N9M8c6GL+xcLNHhbm3J+aFj6+xwcHvg+lZni34teF/CF1PY3Vy9xqMKBjbQIWOT/AAluinHOD2x614X8Ap72L4lKlpbrNHJaSLcEvt8uPKneB3Odox/tV7n48+G/hzxJpGpXU1jFBqLIZvtsSASFlXjJ7jAxigD5/wDHnxf13xkTaws2naZhkNvC5HnKT/y09eMcdKq/DX4gR/D+fVro2T3U91biOAAgKrg5Bb2+lcLXp/wI0P8Atb4hx3MtrHPa2MTSyF8HYxGEIB6nd6UAcN4g8Tax4ov2vNYvprqXJKh2+WME5wo6KPYVmwTy2txHPBI8U0bB0dDgqwOQQfXNfYfxD+G2m+OtI8vbHbalCp+zXIXof7rY6qf/AK9eZ6J+zdcrfhtc1mBrVcHZaBiznIyCWAwCM8igD1Xwl4nD/DDTfEWvXiJ/ogluJ3wo6kfmeB7mvHvF/wC0LqF55lr4ZthZw9PtMwDSHqDgdACMEHqKyfjf4we/1xPCtmktvp+kHy2QvxM+Bgkew6fU15hpsCXWq2dvKCY5Z0RsHHBYA0Aeq+Bvh54g+KMg1vxNql//AGdGvlw3E7l5JsE8Ju/hBJ59c+hrtPGfwD0h9Dkm8LJJb6jDlwks5ZZhj7uWPB969ksbOHTrC3srddsFvGsUYPOFUYFWKAPhbQfEuseGdQF7pF/NazZG7Yx2uAc7WHRh7GvsH4eeIL3xN4I07VNQgkiupUxIXQJ5hH8agfwntXmHxB+BF5rPiObV/D9zCqXkweeCdiNjM3zMD/dGScdewBrrfGOrp8LfhLBZQXDSXaQLY2khBUs+MFsjoQMsPpQBn/E34zQeEbk6Ro0cV5qgyJmY5S344zjq2cHHtzXiGjW3ir4seJYdLn1ea4kRXm33UxZIFyNxA+u0YH9K4uSR5pWlkcu7kszMckmvUPgz8QdH8D3uox6wkwjvjEBcRpuEQXfnIHPO4dAaAPWNM+APg630y3i1GG4u7xU/fTi4dA7d8AHgdq8g+IPhTUvhT4tiutDv7uG0uVLW1xGWUoM8xlu5H8iM16zqn7Q3hGyuVjsob7UYym4ywx7ADk8YfB/THNeMfFH4jN4/1e3e3hmttOtk2xQytklj95iBwD2+gFAHrfwq+Mx8R3K6J4klij1KRsW84UIsxPRMDgN2Hr9a9nr4BUlXBBIIPBFffUH/AB7xf7g/lQBJRRRQAV8ffGr/AJK1rf1h/wDRKV9g18ffGr/krWt/WH/0SlAHBoQHUnoDX3hpGo22r6PZ6jZuXtrmFZYmKkEqRkcHpXwcASQB1Ne/6D+zzNcaNby6vr1zaXrrl7eAB1j9BnPJ+nFAHYfFH4raZ4W0q503TblLnWplaEJDJzbHGCzEfdYZ4HXNfKLu8sjSOxZ2JZmJyST3r0jxd8FPFPhmyl1EeVqVpGpeaS2YloxkDJU4J65OAcAHNc74R8aS+Er62uY9J027MMjOGngHmHIxgSdQKAO6+DPwvutb1K28S6pCE0m3fdCkqA/aWHoD/CPX16dDX0frOrWuhaNd6resy21rGZJCoycD2FcB8O/jDpHjK4TS57f+ztT2bliYjy5Tk5CH1AxwcE546Gp/jB4N17xn4ft7XRLlF8hmkltnk2/aDgbR6ZHPUjrQB4b48+MWueMd1pbs+naZ86GCGQgzKSf9Ye/GOOlbXwW+GVv4pmbXtaiaTTraTbFA6HbcMPU9CoPUfgav6L+zhqs0sEms6tbW8DJukjgBeRGx93kbTg8Eg/SvfdC0LT/Dej2+laXAIbWAYVe5Pck9yepNAHh3x88H+H9D8PaXqGk6VbWM7XXkt9njCBlKM3IHBOQOa8Ghmlt5kmhkaOSNgyOpwVI5BFfSP7SU8I8KaTbmWPzzfbxHuG4qEYE464yQM+9fNdAH2R8J/FVx4v8AAdtfXhdruCRraaRsfvGUA7uPZh+Rpvi74seF/B91PY3ly8+oxRh/ssCljk9FLdFOOcHsR61z/wCzv/yTef8A7CMv/oEddX4p8BeF9bs9Su77RrV7yaFma6CAS5C8Hd1zwKAPn7xf8cvEviFnt9NkOk2RJAFu2JGGTgl+o4wCBxWd8K/Gz+DNV1BrfTZtQvr+AW9rDFzmXdlQR1OTxxzXAV6H8EbS3u/ippi3EKSrGskqBxnDqhKsPcEA0Aegar8L/iR48gS58Sa/bWzBsrZMSUjwMBgE+UEg/WvLvHnw21nwDNAb4pcWk/CXUIOzf12nPQ/Xrg+lfZteffGyztrn4VatLPCkklv5ckLMMlG8xVyPQ4Yj8aAPlHR9c1Pw/fre6VfT2lwBt3xOVyuQdp9RwOK+vPhh40k8deEV1K4g8m5hlNvPj7ruAp3D0BDD8c18Z171+zOT9s8Rrk4EducfjJQB9C18QeO/+SgeIv8AsJXH/oxq+36+IPHf/JQPEX/YSuP/AEY1ADPBP/I+eHv+wlb/APoxa+27yBrqxuLdJ5IHljZFmjOGjJGNw9x1r4k8E/8AI+eHv+wlb/8Aoxa+nviJ8WdJ8E23kWrQ6hqzPtFqkgIjx1MhH3fp1/DNAHkvxCtPiB8P0tZrjx3eXUVy7LGqXzrIAO+0nJHPJHA49RWd4THxX8aRyT6RrmrvbROEeeS+ZEBPUAk8kDkgeo9a1fh5baf8WvHWo3ni+6muLyOMS21muRHsDc89AFyo299x9K+lre3htYEgt4kiiQBVRBgADgUAefeBfBPi/Qdae98Q+MLnVIBGVjtvOkZCT3YN6dq9FoooAKKKKACvn34lfGDxV4W+IGqaNpslmLS28ryxJBub5okY5OfVjX0FXyz+0HpUln8Qk1D7P5cN9bIRLkfvHQbW/IbBQBX/AOGgPHH/AD10/wD8Bf8A69H/AA0B44/566f/AOAv/wBevLqKAPr3xB441DT/AIP2/ijTY4by+ktYWdoxuSN2Ub2IGeFOcjtjmvE/+GgPHH/PXT//AAF/+vXoPgH/AInn7OWoaTpv+kX8cF1C0K8EOzMyjJwOQwP41820Aeo/8NAeOP8Anrp//gL/APXo/wCGgPHH/PXT/wDwF/8Ar15dRQB9UfBf4ga545/tn+2Wt2+yeT5XkxbPvb8555+6K821r46+NLHXdQtIZLDyoLmSJM22TtViB39q6H9mfp4l/wC3b/2pXifib/ka9Y/6/pv/AEM0Ad7/AMNAeOP+eun/APgL/wDXo/4aA8cf89dP/wDAX/69eXUUAeyeHPjl4y1PxPpNhcSWJguryGGTbb4O1nAODn0Neh/Gb4kax4GbSrbR44BLdh5HlmXfgLgbQPfdnPtXjHwX0yLU/ijpSXFr58EPmTNlSQjKhKMfTDBce+K3v2iNTuLnx3bafJs8i0tVaLA5y/LZP/ARQBS/4aA8cf8APXT/APwF/wDr0f8ADQHjj/nrp/8A4C//AF68uooA+uvg74z1bxt4avr7WGhaeG8MKeVHsG3Yp6fUmvRa88+CWmRaf8L9NkFqYJ7oyTTEqQXO9grHP+yF/DFeh0AFfD3jXQ38OeMdU0tjIywzsEkkTYXXPDY9DX3DXhn7QPgiW+tLfxPp9s8k1v8AurwRpk+X2c89jgcDvntQB8519j/B+5S4+FmibZlleONkkw24q29uD6HBHHuK+OK95/Z28XLBPeeFbllVZT9qtTgDL4AcEk8nATAA7GgD6GooooAKKK8w+LfxRk8DQW9jpcUUuq3I3hpMFIUB5JAOST2HHrnjFAHgvxcu7i7+J+ti4maTyZ/Kj3H7qAcAe3Jria9O+OGlPa+MbbVBarDFqdnHMZF6Sy4+c4z7rXmNAH3V4Y/5FPRv+vGD/wBFrWrXKfDXW08QfD7R7xVRHWAQvGkm7YU+Xn0JABx711dAHm3x3/5JTqH/AF2g/wDRgr5Jr6z+PMsafC28jaRFeSeEIpOC2HBOB34r5MoA9p/ZvvLhfF2qWQmYWz2JlaLPBdXQA/UBj+dd5+0R/wAk3t/+wlF/6BJVD9nTQrix8N6jq1xGipfSqsBKkPtQHJ5HQ5GMdcVf/aI/5Jvb/wDYSi/9AkoA+Wq+wPgp/wAkl0X/ALbf+jnr4/r6s+AOpfbfhwtt5jN9iuHi2mMLtyd+Acnd97OcDrjHGSAep18T/Ef/AJKT4j/7CE3/AKEa+2K+J/iP/wAlJ8R/9hCb/wBCNAGf4U/5HHQ/+whB/wCjFr7or4X8Kf8AI46H/wBhCD/0YtfdFAHlP7Qv/JNE/wCv+L/0F6+Vq+qf2hf+SaJ/1/xf+gvXytQB9K/s2/8AIpax/wBfw/8ARa17VXiv7Nv/ACKWsf8AX8P/AEWte1UAfA15/wAftx/10b+ddl8Hv+SsaB/11k/9FPXG3n/H7cf9dG/nXZfB7/krGgf9dZP/AEU9AH2PXln7QP8AyTFv+v2H/wBmr1OvLP2gf+SYt/1+w/8As1AHynX1t8CP+SU6f/12n/8ARhr5Jr62+BH/ACSnT/8ArtP/AOjDQB6TXwVqX/IVvP8Aru//AKEa+9a+CtS/5Ct5/wBd3/8AQjQB1fwj/wCSq+H/APru3/oDU/4xf8lY1/8A66x/+ikpnwj/AOSq+H/+u7f+gNXQfHrwzcaT47fVyWe11VRIrkABXUBWTrk4AU54+97UAeVV9WeAfhX4ObwZpd9daPFeXF7aw3Ej3Pz4ZkBIX0Ge1fKdfWnwS8Wp4i8DW9jKyi80tRbOoAGUAwhAySflwCeOc0Ab3/Cr/A//AELGn/8AfutjTfDWiaPaC00/SrS3gDFtiRDGT1rVooAhitLaB90VvFG2MZRADioNY/5Al/8A9e0n/oJq7VLWP+QJf/8AXtJ/6CaAPg2vcP2a/wDkYNc/69Y//Q68Pr3D9mv/AJGDXP8Ar1j/APQ6APo+iiigD4N1hmfW79mYsxuJMknJ+8a0fBWp/wBj+NNIv/IWfyrlf3bnAOfl/rmtz4t+Gn8NeP76NYEis7pvtFsIwdu09RkjqD169RXERSvBMksTFZEYMrDsRyDQB9+UVx3w18ZW/jLwhaXXno2oQoIryLfllccZPA+8MN6c47V2NABXhn7Sc92NE0e3FqDZG5LtcbxxIFICbevIJOfavc680+OPhm58Q+AJJrQs02myfa/KAHzqAQ3JIxhSW/DFAHyXX0B8DPBXhXxB4UvL3VLC2v74XRjZJiG8tAAVIXtklue+Pavn+vYP2fvFVnoniS90m9eOFNTRPLmkfAEiE4Tp3DHkkdPegD3iz+Hfg/T7uK7tfDthFPE25HWPlTW9/Z1l/wA+dv8A9+l/wqzRQBW/s6y/587f/v0v+FWaKKACiiigAr4++NX/ACVrW/rD/wCiUr7Br4++NX/JWtb+sP8A6JSgDg4/9Yn1FffcX+qT/dFfAana6k9jmvu7QtUg1vQbDVLZZFgu4EmjEgAYAjIzgnmgC+yhlKsAQRgg96+LviZ4dPhjx7qVikLRW7P51uGYMWjboePfNfaVfJvx6vra9+Jswt5RIbe2jhlwCNrgsSP1FAHnFrcy2V3DdQNtlicOh9wc19w+FNaj8ReFNM1aOVZftMCs7qpUbxw4APowYfhXwxX0iniy7+GvwE0IGJE1e5R1topDnAZ2ffxkHCspxkdaAPTPEPjvwz4VdY9Y1eC3lY48oZdxxnlVBI4PfFeT3Hxo8UeL9XXTfAGhEso3l7kKWKgc5Gdq89Du5rwG9vbnUb2a8vJ3nuZmLySOclia+w/hRotlpPw50RrWICS5tUnkdgCxZxuIzjpk8CgDxX4m/DW98PeFIvEGqaq+o6vcXSm6Z5AqoGU5CAnLfNt6DOM8Yrx+vpX9pGWP/hEtJh8xPNN9uCZ+bHlsM49Oa+aqAPqb9nf/AJJvP/2EZf8A0COvT9T/AOQTef8AXB//AEE15h+zv/yTef8A7CMv/oEden6n/wAgm8/64P8A+gmgD4Kr0n4Ef8lW0/8A64z/APos15tXpPwI/wCSraf/ANcZ/wD0WaAPrauF+Mv/ACSXXv8ArnF/6NSu6rhfjL/ySXXv+ucX/o1KAPjqvef2Z/8Aj98Sf9c7f+cleDV7z+zP/wAfviT/AK52/wDOSgD6Gr4g8d/8lA8Rf9hK4/8ARjV9v18QeO/+SgeIv+wlcf8AoxqAMewtbm+1C2tLNS91PKscKhgCXJwoyenJFSarYX2l6rc2OpRtHewSFJkZgxDDryCQa0fBP/I+eHv+wlb/APoxa+gPjZ8NTr+m/wBvaLZK2q25zcKhwZosHOBjlgcHtxnqcUAfOWh6zd6BrVrqllK8c9vIHGxtu4d1z6EcV9p+EfE1r4u8M2es2o2LOvzxFgTG44KnB/H6EV8OsrIxVgQwOCCOQa7v4WeP38DeJBJdNM+lXI2XESNwp7PjuRz6daAPsOiora5hvLSG6t3DwTIskbgfeUjIP5GpaACiiigAryP4++En1vwpDrVsGa50piWTPBifAbAAOTkL6cZr1yo7i3iuraW3nTfDKhR1J6qRgj8qAPgSius+Ivg248E+K59PkKvbyjzrZ0BA8sk4HPcYx1Pb1rk6APdf2c9eVbrVfDk0kapcL9ohXB3u2MNz0wFArynxt4fPhfxjqekCOVIYJ2EHmkFmiJ+RiR6rg1tfCAap/wALL0h9MSQ4lAuCig4hP3856DFfSHi74ZeHPF2s2usax5ytaqA6xuqJKoOf3hxkjHHUcUAfHCI0jqiKWdiAqqMkn0FdDpPgHxXraytp+hXkoiID5TZjPT72M9K+gLrxf8KPAU6abbWNvJJDIzH7LbidonB7uxznPTBrAuf2loPLmW28NSb8ERu92CM9iRt6e2aANv4EeC9d8KWmsz63Z/ZDdtEsUTMC/wAm7JOOMfMMc9jXlXif4S+Nm8U6pJb6JLcwyXUkiSwupVlZiwxkg98fWva/hF8SL/4gWmpLqVnbw3Nk6fPb5CMr7sDBJII2nnPevPde/aD8QWPiW+tLPTNOFnb3DRKsqu0hCnBywYDkg9uM0AeQav4b1rQLiSDVNMubV4yA5dPlGRkfMOO/rWXX0MP2iNF1OSO11XwoxsmceYXmWYKPXYUGSPrWxbaF8LPivHK+nRC01BwGcQfuZkVTj7nKYOPSgDE/Zx8OXMK6l4jlJWCZPssSleHwwJYHPYjGMd68f8e6xHr3jrWNRhaUwS3DeWJfvKo4xjJxX1JqXhe58MfC690LwZDuuVgZY/Oc73LffYEY+cjJGMDOK+PJ4pobiSK4R0mViHVxyD3zQBHWr4b0WXxF4k0/SISoe6mEYLNgY6nnB7A1lV9C/AT4fNAh8XakjpI26KzhkjGNvGZOeevA6YweuaAPctPsotN021sYCxhtoUhQscnaoAGffAqxRRQAU10WRGR1DIwwysMgj0NOooA+f/iN8CJGkudY8KHeXYMdM24xnO4o2fp8p9+e1eGyRaloOpr5iT2V7A25dwKspBxkfiDX3lWXrHhvRdfhki1XTLa6EibGZ4xv25zgMPmH4GgDzH4efG/StT0dbXxRdx2OpQYTzmB2XA7MMDhvUdO/fA9S/t3R/wDoK2P/AIEJ/jXFan8D/AuoWZgh0ySwfcD51tM2/wCnzlhj8Kxf+GcvCP8A0ENY/wC/0f8A8RQBrfEH4v6N4T06aDTbiC/1kgCKFG3IhIyGYjqB6A89OOtfNVpYeI/iD4lzGk19f3cuHmYHapPOWPRQBk/hxX01pvwR8C2FktvNpb3zgkme5mbecnodpUcfSu6sdMsNMjaOwsre1RsbhDGEzjpnHWgDA8S+B9N8XeFYtI1SMebFEoiuEHzQuFxkHuPUdxXyV4t8Gav4O1eax1G3fYh/d3CqfLkU5wQfwPHtX29Va/06y1S0a1v7WG5gbrHKgYdMZ56Hk80AfM/wU+Jlt4Unk0HVVWPTrybzVuR1ikIC/N6qQB9PfPH061xCtv8AaGmjEG3f5hYbdvrnpivMtV+AfgvUrlZoEvdPVU2mK1mG0nJ5O8Mc8+valb4HaO9p9lbxJ4ma22bPJN8pTb0xjZjHtQB5n8evHFn4g1W10PTZo57awZmmlVeDL0IVs8gD261gfDz4T6v4zvba5uopLPRCdz3RHMgB+6g9T6ngdeele+aJ8GfBOipbn+zDe3ED+YtxdyFmJzkZAwpA9MfWu8hhit4UhgjSKJBtVEUKqj0AHSgCqz2OhaRukeO2sbSLlmwqooFeFfG/4heGfEXhG10rRtRW9uDdrOxiU7UVVYck45O4Y+hr3q+sbXUrGayvYEntplKSRuMhhXHf8Kd8Af8AQuQ/9/pf/iqAPjmvevgB4y0LR9LvdE1K9W1u7i8EsPm8I4KquAexyp616Z/wp3wB/wBC5D/3+l/+KpV+D3gFWDDw5DkHI/fS/wDxVAG7rfjDw94cggm1bVbe2juBmEklt465GM8e9fGvi/VLfW/GOsapaBxb3d3JNHvGG2sxIyK+x9c8FeG/EkFtDq2kW9xHbDbCOU2D0G0jj26Vn2Xwv8Faetwtt4etVFxEYpN5Z8qeuNxOD7jBoA+PdDvItO8QabfThjFbXUUzhRk7VcE498CvtHw/418O+KI5W0jVILgwoHlTJVkB9Qf1rKufhL4Fu7mS4m8O25kc5YrJIoz9AwArU0HwP4a8MG4Oj6RBbG4XZKcs5ZfTLE8e3egDyP44+PvDet+Eo9G0vUVvLv7YHcRKdqBAQck+pbjGehr58r7Jl+EPgKaV5X8OwF3Ys2JZAMn2DYFM/wCFO+AP+hch/wC/0v8A8VQB5X8CvHfh3wzo+p6drN+LOWW4E0bSKdrDaFxkZ54r17Wfif4O0Jp4rvW4GuIo/M8mHLs3GQBjjJ+tVh8HvAAII8OQ/wDf6X/4qrOo/C7wTqt411d+HrVpmABKM8YwBgcKQP0oA+M7hxLcyyLnDOWGfc10nw61qz8O+P8ASNV1BmW0glPmMoyQGVlz+Zr6e/4U74A/6FyH/v8AS/8AxVH/AAp3wB/0LkP/AH+l/wDiqAOksvEuiajpLapaanbS2SJ5jyq/CrzyR1HQ9a8O+NnxN0DxB4eh0HRZxfGSVZ5LhMhI9ucLyMkn9OOte06X4L8OaLpVzpmn6Rbw2d1nz4sFvM4xyWJP68Vn2Hww8Faa+618PWqner/OWflc4+8T6njvQB8W19A/Bj4oeHtF8J/2DrVyLCS1d3jmkyVlDMTjgZBGa9p/4RnQP+gHpv8A4CR/4Vi/8Ku8E/2p/aX/AAj1r9q83zt259u7OfuZ24z2xj2oAl8V/ETw34NhVtUvSZ3UOltCu6R1JAyBwO+eSK+MLyVZ724mTO2SRmGeuCc19t694L8OeJwn9saRb3RQghyCrcDA+ZSCRjt0p9n4O8NWNpFa2+haeIol2qGt1c49ywJP4mgD5A+H+s2nh/x5pGq35dbW3mzIUGSAVIzj8a+oNbg8N/FrwhfWWmX9pdsmRFOFJMEuMg4OD/T8qfJ8IPAUsjyP4cg3MSxxLIOT7Bq3/D/hTQ/CtvLBomnRWccrbpNhLFj7liT+FAHx34s8D674Mvza6ta4XaGWeLLRMD6Ngd8jnHSqfhvxNqnhPWYtU0mfyp4zyrcpIO6sO4NfcN5ZWuoW7W95bRXELdY5UDL+RrzfVvgJ4K1KaOSCG705UXaUtJuG56neGOfpQBz3h79ozSpNPC+IdOuYbxAAWs1DpIccnBI289sn61NrX7RWjLZbNA0y9ur6Q7FW4URqpIODwWLc4+XjPrVv/hnLwj/0ENY/7/R//EV2ui/Dbwh4fuRc6dodulwFC+ZIWkPBByNxIByByKAOU+Guk+NdQ8S3ni7xbO1t50H2eDTxkKFJDbguSFAxx1JyemKteM/i/wCFNL0LUYbW/S/v8Pbi1iyCGOQckjAA/GvS65aT4ceD5dbbWJNBtWvmfzDId20tjGSmdv6UAfFNdd8NvF8XgrxlbarcxzS2m1o5kibB2sMZx0OOuP1FfXn/AAjOgf8AQD03/wABI/8ACorrwh4bvLWW2n0LTzFKpRwtuqnB9CACPwoAzvDvxI8K+KLi2tdM1RHvbhC62rqRIuBkg9sgZ711dc3oPgHwt4YvWvNH0eG1uWXZ5gZmIHtuJx+FdJQBxXxI+Hll4+0URO3k6jbBmtLjspPVWHdTgfkD7H5M8Q+GNY8K34s9YspLaVgShblXGcZB79K+6Kp6hpOnatEI9Qsbe6UAgCaMNtB64z0/CgD4m8L+KtV8IawmpaTOI5RwyOMpIPRh3Fe56D+0fpssezXtIuLd1jX97aMJBI/8XynG0d+prsrz4K+A7qzlgj0UWzuuBNDM+9PcbiRn6g1W0n4F+B9NgeOexm1FmbcJLuY7lGOg2bRj8KAOV1L49X2sXh07wV4emurh2QRT3AzySMho16emd3vXp3gux8QW3hdbbxbcxXuou7mRlIZSh6L0HbjpV/QvDGieGbb7Po2mwWic5KDLHJzyxyTz71rUAfLPxS+EuraLrl3qmjWBuNGmJlC2682+SBtK5JPJ4I9+leUfPFJ/EjofoQRX37XGeI/hX4R8TebJd6WkF1IgX7TbHy3XnOQB8ueTyQetAHjfgj4/ahpEVvp/iK2+3WcarGtzEcTIozywPDnoP4eneu4u/wBorwpHaSvaWWpzXAUmOOSNUVj2BbccfXBo/wCGcvCP/QQ1j/v9H/8AEV0WifBzwVoiWxXSvtlzA29bi6cszHORkDCnHTp2oA80tr34jfGK6cQS/wBiaCsi5KhlyhbIIPV2A9NoNfQyLsjVSc4AGfWkiijgiSKGNY40AVUQYCgdAAOgp9ABRRRQBxnjL4n+HfA15BZ6q9y9zMnmCK3jDFVzgE5I6kH8jXyt488RxeLfGupa3BA0ENy67EY5O1VCgn3O3OO2e9fZ93o+l6hKJb3TbO5kA2h5oFcgemSOlV/+EZ0D/oB6b/4CR/4UAfCtfSPwt+MHh628JWWja9eCyurGLy1kaMiNkXhQCCSWx14Fes/8IzoH/QD03/wEj/wqhqvgDwnrUKQ32gWTIjbl8uPyjnp1TBNAHHeLPjr4Z0jTZBotx/al+8Z8kRqRGjcD5ycHvnAHOMZFfMl/e6h4i1qe9uN9zfXchd9iZLH2A9q+t/8AhTvgD/oXIf8Av9L/APFV09p4e0WweKS00mxhkiGEeO3UMvGOuM0AfNPwz+D+reINVt9R1m2lsdIixKC4Aecg8KAegyOSfy5r0f4/eGNR1fwxpt1plsJYdNd2mjjHzKhCgFR6DFew0hAZSCAQeCD3oA+Aa7/wj8W/FvhbTU0jTTb3cJf9zHcRNIyZ/hXDDj2r6Ln+EfgO5uJZ5fDsBklcuxWWRRknJ4DYH0Faei+BPC3h7J0vRLSFi4k3MpkYMOhBbJH4UAeP3Hw38ZfELSNR1zxdcvb6hFE50ywSNflOQxGM8A4wOT1znjB8GuLea0uJLe4iaKaNiro4wVI7Gvvuub1zwB4V8SXK3GraLb3Ey5/eDcjHOM5KkZ6DrQB8xeAPFfjeztZvDnhXLreSghvK3GBz1YN0XIHOc9OK9q1b4laX4O8GSaVq2tprfiSCIwzpENpaRsnk4wAoIGfbpXpWnaRpukxeXp1jb2qlQp8mMKWA6ZI6/jWdL4K8Mz6v/asuh2T3uwx7zEMEE5OV+6Tk9SM+9AHw9XVfDnxTb+DfG1lrN1A81vHuSRYz8wVhtJHqRnOOM+or7A/4RnQP+gHpv/gJH/hR/wAIzoH/AEA9N/8AASP/AAoAi0LxboXiW0nutI1KG5ht8ec4yoj4zzkDtXk3xg+Knh2/8H3OgaPcrqFxekJI8ZIWEKwbJyOSSoGPqc8c+0W+ladaQSwW1hawwzDEkccKqrjGOQBzxVCDwh4ct/M8rQtOHmOZGzbq3zHr1HH0HFAHw1Xpfwc+IOm+BNV1AarDM1tfJGvmxYJjKk4yD1B3dc8Y719P/wDCM6B/0A9N/wDASP8Awo/4RnQP+gHpv/gJH/hQByeqfGnwPp1i1xFqwvXBAENshLn/AL6wMV8o69qf9teINR1XyvJ+2XMlx5e7ds3MWxnjOM19tf8ACM6B/wBAPTf/AAEj/wAKP+EZ0D/oB6b/AOAkf+FAHxJompf2Pr2nan5Xm/Y7mO48vdt37GDYz2zivtDwn4y0bxnpv2zSbjzCgXzomGGiYjhW7Z4PSrf/AAjOgf8AQD03/wABI/8ACrlnptjpyutjZW9qHOWEESpu+uBzQB8ofHDR7TR/iVcrZqVW6hS5deMB2JBwAOBwK84r7xu9G0u/m86802zuJcbd80Cu2PTJFQf8IzoH/QD03/wEj/woA+evhJ8X38PtHoXiKdn0o8QXLcm39j6r+o9+30paXUF9ZwXdrIJLeeNZInHRlYZB/I1Q/wCEZ0D/AKAem/8AgJH/AIVpxxxwxJFEipGgCqijAUDoAOwoAdRRRQAUUUUAcf8AEjwPF478MNYb1hvIm822mKg4bH3SeoU98eg9K+ffDfwO8U6xq81rqUDaXbQfeuJUyJOcYT16dfpX1lUdxG0ttLGj7HdCqt6EjrQB5hrPiDwh8E9EtdPsLBJr90C+WhAmlGeXkfGcZycdOwwKX4d/EW1+KWl6jomtWMcV0YWWeKIsI5Ym4ODnIODjr718/eO/Cnifw7rUz+IRdXJd9iahKzOs4AGMMc54xx26Vg6Rq9/oOq2+paZcvb3cDbkkT+RHcHuDwaANTxt4Tu/Bnia40i6ZX2/PHInR0PQ//Wrna+otXt9G+OHw8NxpYhXWrYAx+acPDJ1KEjswyPToe1fM+o6fd6TqE9jfQPBcwMUkjcYINAHu37M/TxL/ANu3/tSvE/E3/I16x/1/Tf8AoZr2z9mfp4l/7dv/AGpXifib/ka9Y/6/pv8A0M0AZde7/ADwVILt/GN68kEMAeK2VlwsgK4ZsnsOR9a4T4afDe+8daqJCGg0m3cfaLjHU9di54J/lXrHxt8d23h/Qf8AhEdFe2SeeLybmGNBiCArjaB0XI4x2HSgCjq/7RDaf4vubW20y2vNFgdoxLHIRJLjIDK33cE4PTpW3rfhnwd8Z9FF9oV3b2urR4keWNBvXd1WVR97p165A5xkH5eAJIAGSe1e3fBDwD4kh8QWPiiQtZaVsfKliGuVIwF2/wB3JDZPHy0AUPCnwI1q88VzW2vxNbaVaP8APMv/AC8jsE9j3Pavpu2t4rS1htoF2QwoI0XOcKBgD8qlooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAp6tfrpWjX2otGZFtLeScoDgsFUtjP4VkeCfGFl438Ox6tZxPCC5jkhc5KMO2e496teL/+RK17/sHXH/otq89t7jTPhlq9zPF9hs7LWNJ+1xo5KA3UIACDnHz+YeB/doA6yx+IFlqHxHvPB0FpKZrS3MstwzYXcCvygd+GHOa6qS5gicJJNGjHoGYAmvKvBfhxdK8XaBq91Cy61q+m3k9/IZ2k3nfCUxknGFbHFYvh60ufGU3iq81Pw7/bk51GWyS7e7SJraOPG1YwfuEZzlcZJ5oA90qEXdsYzILiIoDgtvGB+NeP66uvRWngDSNY1K8SW61KS2ujBdlXlhzhA7xkbjsxk+uav2vww8OWXjyHS7WK5j0lLMX0untcu8NxKJNql1YkHGBx04oA9A8ReJNO8MaBNrWoO/2KHbuaJd5+ZgowO/JFaFvdwXKqYpUYsobbuG4A+o/Gvn3X55YPhn8QdCWVzp2karDb2UTsWMUfmr8oJ5I44z0rub/wlpnhrRtM8R6JLPZ6nFPB5k/nGQ3SzSRo6SFid4wcjPQqMYoA9MluIYMebNHHnpvYDNOLoE3llCYzuzxXjsJuvEHxT8UC/wBAi8QJphjt7SG5mRI7dGBLYRxgkkD5sZ461qX+l6ha/DPxTBepLaJPcbrWH7X55t4iIhtVsnADBiAOBQB6eGViwDAlTggHpXKeJfGzaJ4i0zQLLSZtS1K/UusaSCNUQHBYsQeBjmtTw74bs/DdpLDay3M0k7LJcT3U7SySuFC7iWJ7KOBxXn3jO11G8+OPhiHTNQ+wTnT5S0/lLIQm5twAYEZIzjIoA9E0q+1i6mddS0aOxjC5V1vBNuOemAoxXP6P441LxLbTXuh+HRc2CTvAk0t8sTOVOCdpU4roNK03UrGZ3vdeudRRlwscsEMYU565RQa4r4Hsv/CATcjjULjPPT5qAOn0TxhaatpmoXE9vLZ3em7vt1nJy8OAT+IIBwe+KbY+NtPu/BEXiuSOWKykUssYG5yN5QYHcnHSuPvvtF98SPFt7ZXQk0y28PG2ulSX5ROd5UFe5Chue2feuYuoJZP2dPC0qRs0dtexTzMBxHGJZMsfQDIoA9M/4S7XI7ZL2bwdepZNKVbbMGnRASN5ixnoM4z3rqLC9i1LTra+gDiG5iWZN64bawBGR2PNRXGr6fbaQ2rS3cS2Cxeb5+4bdmMg5qWwvYdS062vrcsYLmJZoywwdrAEZHbg0AWKKKKACiiigAooooAp6npWn6zZNZ6nZwXdsxBMU6B1JHQ4NeKeL/2eLaVJLnwrdGFwuRZ3DFlbA6Kx5yT68V7vRQB8kaZ4f+Ivwx8QHU7bR7weRHvuGhQywPF1ZXZcjGBn2xntXrV94Y8O/HDwza+IbfzLDUVDRGUJzuA+4395QSDn64r10gEEEZBpFRUGFUKPQDFAHkXwQ8Fa34Om8RJq9t5KySxRwvniTZuJYe3zDn6+lcJZ/BLxBrvjzUZdUh+xaT9uld5iw3SKTuGwd8huvQEEdRX0zRQB5J428bWfgHTrXwZ4Ms1k1lkEUNvAm8wbuQSB1c5zjqc5PWvKdG+DHjfxRc/btRiaxFyzvLcX7HzC2Tksh+bk9/fNfV5jjL7yi7vXHNOoA8u8EfBHQvC81tqF+TqWpwlZFdx+7jcDqq9+eQTyCBXqNFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBBfWcOoWFzZXKloLiJopFBwSrAg8/Q1m6x4W0rXbKwtL+F5IbGeO4gCyFdroMKSR161s0UAVJdNtptVttSdCbm2ikijbccBXKluO/3FrBbwBoonvJLaTUbJbyQyzw2V9LBG7kAFtikDJxz611NFAGPZ+FdCsbHTrODS7UQ6ad1oGjBMTd2BPRieSepNXv7Otv7W/tPYftXkfZ92442bt2MfWrVFAGDqvgzQNZ0zUNPudOiSDUJFlu/IHltM6sGDMy4JORVRfh9oC3FnI0VzJDZSCW2tJLl2t4mAIBWInaMZOOODXU0UAYOq+ENK1fVotVlFzb6hHEYRc2dw8EjISDtZkIJGR0NLaeD9FsvD82iQWpWzncyTfOS8rkglmbqTkDk+lbtFABWfcaJp9zrVpq8tspv7RXSKYcMFYYIPqOelaFFABXHL8MfDcL35tFvrKO/JNzDZ3skMcmQQQUUgYwTx712NFAGdpug6VpGlnTLDT7e3smBDQxxgK+Rg5HckdfWmWvhzSbTQBoSWMT6YAy/ZpF3oQWLEYPbJ6VqUUAcjH8NvDkccMHlXb2UM3nx2L3cjWytuLcRE7cZJ4xXXUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH//2Q==",
+            "image_mime_type": "image/jpeg",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "e/ INO eat wn Commerce Bank Member FDIC",
+        "type": "Image"
+    },
+    {
+        "element_id": "f57f15dd80e6f6b5b7d67931ebae2acb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        380.8,
+                        245.3
+                    ],
+                    [
+                        380.8,
+                        347.4
+                    ],
+                    [
+                        1005.6,
+                        347.4
+                    ],
+                    [
+                        1005.6,
+                        245.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.57934,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "1000 Walnut Kansas City MO 64106-3686",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bd3105d99b629ad3e64c3ade335b7e77",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        367.4,
+                        411.8
+                    ],
+                    [
+                        367.4,
+                        584.1
+                    ],
+                    [
+                        1122.1,
+                        584.1
+                    ],
+                    [
+                        1122.1,
+                        411.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.53604,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "Jane Customer 1234 Anywhere Dr. Small Town, MO 12345-6789",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2011cbc96e239df74c843b5d273d0b4d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        1803.3,
+                        701.9
+                    ],
+                    [
+                        1803.3,
+                        745.7
+                    ],
+                    [
+                        2665.5,
+                        745.7
+                    ],
+                    [
+                        2665.5,
+                        701.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.45464,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "Primary Account Number: 000009752",
+        "type": "Title"
+    },
+    {
+        "element_id": "9fd2be79e8b381a693e0b8946d16e50e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        386.1,
+                        754.7
+                    ],
+                    [
+                        386.1,
+                        819.1
+                    ],
+                    [
+                        829.8,
+                        819.1
+                    ],
+                    [
+                        829.8,
+                        754.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.30175,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "Bank Statement",
+        "type": "Title"
+    },
+    {
+        "element_id": "8076b0a66dff4ecc610ae13d76355dab",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        386.5,
+                        835.0
+                    ],
+                    [
+                        386.5,
+                        944.4
+                    ],
+                    [
+                        1398.4,
+                        944.4
+                    ],
+                    [
+                        1398.4,
+                        835.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.46922,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "9fd2be79e8b381a693e0b8946d16e50e"
+        },
+        "text": "If you have any questions about your statement, please call us at 816-234-2265",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ad4c29576f28fdc5c93a7aae6ef91173",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        1841.1,
+                        836.8
+                    ],
+                    [
+                        1841.1,
+                        880.6
+                    ],
+                    [
+                        2173.0,
+                        880.6
+                    ],
+                    [
+                        2173.0,
+                        836.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "9fd2be79e8b381a693e0b8946d16e50e"
+        },
+        "text": "Statement Date:",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7434060981975561a3a18a61d3723198",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        2223.9,
+                        836.8
+                    ],
+                    [
+                        2223.9,
+                        880.6
+                    ],
+                    [
+                        2657.0,
+                        880.6
+                    ],
+                    [
+                        2657.0,
+                        836.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "9fd2be79e8b381a693e0b8946d16e50e"
+        },
+        "text": "June 5, 2003",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fc46413f717d390a86ba32c4f3b9e907",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        1841.1,
+                        895.2
+                    ],
+                    [
+                        1841.1,
+                        938.9
+                    ],
+                    [
+                        2647.7,
+                        938.9
+                    ],
+                    [
+                        2647.7,
+                        895.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "9fd2be79e8b381a693e0b8946d16e50e"
+        },
+        "text": "Page Number: 1",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ab25a18e7d63d948b5e8f6d826155b5c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        386.5,
+                        1032.2
+                    ],
+                    [
+                        386.5,
+                        1077.5
+                    ],
+                    [
+                        1425.6,
+                        1077.5
+                    ],
+                    [
+                        1425.6,
+                        1032.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.7159,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "CONNECTIONS CHECKING Account # 000009752",
+        "type": "Title"
+    },
+    {
+        "element_id": "e6eb48477c6e25ea3d54e95a9652a1f6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        363.8,
+                        1058.4
+                    ],
+                    [
+                        363.8,
+                        2584.1
+                    ],
+                    [
+                        2663.1,
+                        2584.1
+                    ],
+                    [
+                        2663.1,
+                        1058.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71383,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "partial",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "ab25a18e7d63d948b5e8f6d826155b5c",
+            "text_as_html": "<table><thead><tr><th>Account Summary</th><th>Account #</th><th>000009752</th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Beginning Balance on</td><td>May 3, 2003</td><td></td><td></td><td></td><td>$7,126.11</td></tr><tr><td>Deposits &amp; Other Credits</td><td></td><td></td><td></td><td></td><td>+3,615.08</td></tr><tr><td>VISA Check Card</td><td>Purchases &amp; Debits</td><td></td><td></td><td></td><td>-0.00</td></tr><tr><td>Checks Paid</td><td></td><td></td><td></td><td></td><td>-200.00</td></tr><tr><td></td><td>Ending Balance</td><td>on June</td><td>2003</td><td></td><td>$10,521.19</td></tr><tr><td colspan=\"6\">Deposits &amp; Other Credits Account # 000009752</td></tr><tr><td>Description</td><td></td><td></td><td></td><td>Date Credited</td><td>Amount</td></tr><tr><td>Deposit</td><td>Ref</td><td>Nbr:</td><td>130012345</td><td>05-15</td><td>$3,615.08</td></tr><tr><td>Total Deposits &amp; Other</td><td>Credits</td><td></td><td></td><td></td><td>$3,615.08</td></tr><tr><td colspan=\"6\">ATM Withdrawals &amp; Debits Account # 000009752</td></tr><tr><td>Description</td><td></td><td></td><td>Tran Date</td><td>Date Paid</td><td>Amount</td></tr><tr><td colspan=\"6\">ATM Withdrawal</td></tr><tr><td>1000 Walnut St</td><td>M119</td><td></td><td></td><td></td><td></td></tr><tr><td>Kansas City MO</td><td>00005678</td><td></td><td>05-18</td><td>05-19</td><td>$20.00</td></tr></tbody></table>"
+        },
+        "text": "Account Summary Account # 000009752 Beginning Balance on May 3, 2003 $7,126.11 Deposits & Other Credits +3,615.08 ATM Withdrawals & Debits -20.00 VISA Check Card Purchases & Debits -0.00 Withdrawals & Other Debits -0.00 Checks Paid -200.00 Ending Balance on June 5, 2003 $10,521.19 Deposits & Other Credits Account # 000009752 Description Date Credited Amount Deposit Ref Nbr: 130012345 05-15 $3,615.08 Total Deposits & Other Credits $3,615.08 ATM Withdrawals & Debits Account # 000009752 Description Tran Date Date Paid Amount ATM Withdrawal 1000 Walnut St M119 Kansas City MO 00005678 05-18 05-19 $20.00",
+        "type": "Table"
+    },
+    {
+        "element_id": "bc57cdb397584111755aadf94f64837f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        381.6,
+                        2605.1
+                    ],
+                    [
+                        381.6,
+                        2648.8
+                    ],
+                    [
+                        1057.7,
+                        2648.8
+                    ],
+                    [
+                        1057.7,
+                        2605.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.57294,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "Total ATM Withdrawals & Debits",
+        "type": "Title"
+    },
+    {
+        "element_id": "921142a0b044987ce846b7a330849199",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        2504.7,
+                        2605.1
+                    ],
+                    [
+                        2504.7,
+                        2648.8
+                    ],
+                    [
+                        2653.4,
+                        2648.8
+                    ],
+                    [
+                        2653.4,
+                        2605.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f"
+        },
+        "text": "$20.00",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "675ce598126c2ec3d7851fad24130eac",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        378.6,
+                        2712.9
+                    ],
+                    [
+                        378.6,
+                        2758.2
+                    ],
+                    [
+                        1115.0,
+                        2758.2
+                    ],
+                    [
+                        1115.0,
+                        2712.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80761,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f"
+        },
+        "text": "Checks Paid Account # 000009752",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "30ef81201c8557a36d2fbdd1a96d2238",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        385.0,
+                        2809.6
+                    ],
+                    [
+                        385.0,
+                        3106.2
+                    ],
+                    [
+                        1746.5,
+                        3106.2
+                    ],
+                    [
+                        1746.5,
+                        2809.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.49934,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f",
+            "text_as_html": "<table><thead><tr><th>Date Paid 05-12</th><th>Check Number 1001</th><th>Amount 75.00</th><th>Reference Number 00012576589</th></tr></thead><tbody><tr><td>05-18</td><td>1002</td><td>30.00</td><td>00036547854</td></tr><tr><td>05-24</td><td>1003</td><td>200.00</td><td>00094613547</td></tr></tbody></table>"
+        },
+        "text": "Date Paid Check Number Amount Reference Number 05-12 1001 75.00 00012576589 05-18 1002 30.00 00036547854",
+        "type": "Table"
+    },
+    {
+        "element_id": "030e5a79f6939f301ff6b9a768b679c2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        386.5,
+                        3060.0
+                    ],
+                    [
+                        386.5,
+                        3111.0
+                    ],
+                    [
+                        506.1,
+                        3111.0
+                    ],
+                    [
+                        506.1,
+                        3060.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f"
+        },
+        "text": "05-24",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "b14a1ed7617cf64b7f276e34a4607371",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        685.0,
+                        3060.0
+                    ],
+                    [
+                        685.0,
+                        3111.0
+                    ],
+                    [
+                        787.5,
+                        3111.0
+                    ],
+                    [
+                        787.5,
+                        3060.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f"
+        },
+        "text": "1003",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fbb5091ea2dc6b018fa10f60967971dd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        1126.6,
+                        3060.0
+                    ],
+                    [
+                        1126.6,
+                        3111.0
+                    ],
+                    [
+                        1596.5,
+                        3111.0
+                    ],
+                    [
+                        1596.5,
+                        3060.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "bc57cdb397584111755aadf94f64837f"
+        },
+        "text": "200.00 00094613547",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "3edb6f5c4a8cabc788d76f4a02129c6a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        384.7,
+                        3148.3
+                    ],
+                    [
+                        384.7,
+                        3192.0
+                    ],
+                    [
+                        765.4,
+                        3192.0
+                    ],
+                    [
+                        765.4,
+                        3148.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.40243,
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1
+        },
+        "text": "Total Checks Paid",
+        "type": "Title"
+    },
+    {
+        "element_id": "6461f90f0640c5720ebbc7c6e4facfa6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 3850,
+                "layout_width": 2975,
+                "points": [
+                    [
+                        2347.9,
+                        3148.3
+                    ],
+                    [
+                        2347.9,
+                        3192.0
+                    ],
+                    [
+                        2653.4,
+                        3192.0
+                    ],
+                    [
+                        2653.4,
+                        3148.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "docs",
+            "filename": "statement_sample1.pdf",
+            "filetype": "application/pdf",
+            "is_extracted": "true",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2026-07-29T15:12:09",
+            "page_number": 1,
+            "parent_id": "3edb6f5c4a8cabc788d76f4a02129c6a"
+        },
+        "text": "$305.00",
+        "type": "UncategorizedText"
+    }
+]
